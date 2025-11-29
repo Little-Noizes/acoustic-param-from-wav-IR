@@ -1,0 +1,8 @@
+numpy
+scipy
+matplotlib
+pandas
+pyfar
+pyrato
+soundfile
+streamlit
